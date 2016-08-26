@@ -1,0 +1,13 @@
+package com.zooanimals;
+
+public class Animals {
+	
+	public String animals_id = null;
+	public String species = null;
+	public String name = null;
+	public String habitat = null;
+	public int age = 0;
+	public Double weight = 0.00;
+
+	
+}
